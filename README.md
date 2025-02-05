@@ -1,7 +1,7 @@
 # tailwind-gravityforms
 TailwindCSS Gravity Forms styles
 
-#For more custtomisation
+#For more customisation
 
 check Gravity forms docs:
 https://docs.gravityforms.com/category/user-guides/design-and-layout/css-selectors/
